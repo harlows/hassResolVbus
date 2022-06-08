@@ -1,6 +1,7 @@
 {
   "domain": "resolvbus",
   "name": "Resol VBUS",
+  "version": "1.0.0",
   "documentation": "https://github.com/epenet/hassResolVbus",
   "dependencies": [],
   "codeowners": ["@epenet"],
